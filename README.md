@@ -78,11 +78,4 @@ The app showcases 12 famous Turkish regional products:
 - LinkedIn: [furkanislam](https://linkedin.com/in/furkanislam)
 - Website: [fiharitamuhendislik.com](https://fiharitamuhendislik.com)
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Cultural and regional product information sourced from Turkish cultural heritage
-- Map data provided by Apple MapKit
