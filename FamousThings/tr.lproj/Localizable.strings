@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  FamousThings
+
+  Created by Furkan İSLAM on 21.10.2025.
+  
+*/
+
+/* MainView Tab Titles */
+"browse" = "Gözat";
+"locations" = "Konumlar";
+"gallery" = "Galeri";
+"settings" = "Ayarlar";
+
+/* MapView */
+"latitude" = "Enlem:";
+"longitude" = "Boylam:";
+
+/* SettingsView */
+"famousThings" = "Famous Things";
+"famousThingsDesc" = "Türkiye’nin her şehrinin kendine özgü lezzetlerini, ürünlerini ve kültürel değerlerini keşfedin!";
+"didYouKnow" = "Biliyor muydunuz?";
+"aboutProject" = "Proje hakkında";
+"aboutProjectDesc" = "Famous Things, Türkiye’nin şehir bazlı kültürel ve yöresel değerlerini tanıtmak amacıyla geliştirilmiş bir iOS uygulamasıdır. Uygulama, SwiftUI teknolojisiyle tasarlanmış olup kullanıcıya sade, hızlı ve estetik bir deneyim sunar.";
+"aboutProjectCredit" = "Proje, Furkan İSLAM tarafından tasarlanıp kodlanmıştır.";
+
+/* SettingsView - Row Names */
+"settingsApplication" = "Uygulama";
+"settingsDeveloper" = "Geliştirici";
+"settingsDesigner" = "Tasarımcı";
+"settingsWebsite" = "Website";
+"settingsLinkedIn" = "LinkedIn";
+"settingsVersion" = "Versiyon";
+"settingsLanguage" = "Dil";

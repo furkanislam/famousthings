@@ -1,0 +1,87 @@
+[
+  {
+    "id" : "cay",
+    "name" : "Rize Çayı",
+    "image" : "map-cay",
+    "latitude" : 41.025398538290204,
+    "longitude" : 40.52055291372945
+  },
+  {
+    "id" : "findik",
+    "name" : "Trabzon Fındığı",
+    "image" : "map-findik",
+    "latitude" : 41.00407461910698,
+    "longitude" : 39.71392567040663
+  },
+  {
+    "id" : "kayisi",
+    "name" : "Malatya Kayısısı",
+    "image" : "map-kayisi",
+    "latitude" : 38.35469814026707,
+    "longitude" : 38.31693771475488
+  },
+  {
+    "id" : "elma",
+    "name" : "Amasya Elması",
+    "image" : "map-elma",
+    "latitude" : 40.68113077963512,
+    "longitude" : 35.82223582928293
+  },
+  {
+    "id" : "portakal",
+    "name" : "Finike Portakalı",
+    "image" : "map-portakal",
+    "latitude" : 36.30803913038993,
+    "longitude" : 30.137903794495497
+  },
+  {
+    "id" : "uzum",
+    "name" : "Denizli Üzümü",
+    "image" : "map-uzum",
+    "latitude" : 37.78067117963017,
+    "longitude" : 29.095378198297343
+  },
+  {
+    "id" : "incir",
+    "name" : "Aydın İnciri",
+    "image" : "map-incir",
+    "latitude" : 37.83915384656649,
+    "longitude" : 27.84501493463506
+  },
+  {
+    "id" : "zeytin",
+    "name" : "Ayvalık Zeytini",
+    "image" : "map-zeytin",
+    "latitude" : 39.3188015643198,
+    "longitude" : 26.693612950842578
+  },
+  {
+    "id" : "fistik",
+    "name" : "Antep Fıstığı",
+    "image" : "map-fistik",
+    "latitude" : 37.05667043447457,
+    "longitude" : 37.372237117728915
+  },
+  {
+    "id" : "gul",
+    "name" : "Isparta Gülü",
+    "image" : "map-gul",
+    "latitude" : 37.762857289179195,
+    "longitude" : 30.5561707896974
+  },
+  {
+    "id" : "tahin",
+    "name" : "Eskişehir Tahini",
+    "image" : "map-tahin",
+    "latitude" : 39.76424292779686,
+    "longitude" : 30.522152491152987
+  },
+  {
+    "id" : "kasar",
+    "name" : "Kars Kaşarı",
+    "image" : "map-kasar",
+    "latitude" : 40.59851867330234,
+    "longitude" : 43.099041241476904
+  }
+]
+

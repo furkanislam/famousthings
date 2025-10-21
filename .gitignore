@@ -1,0 +1,22 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+*.xcuserdatad
+.DS_Store
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Build products
+build/
+DerivedData/
+
+

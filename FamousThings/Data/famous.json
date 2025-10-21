@@ -1,0 +1,158 @@
+[
+  {
+    "id": "cay",
+    "name": "Rize Çayı",
+    "headline": "Türkiye’nin nemli Karadeniz ikliminde yetişen çay, Rize’nin en bilinen simgesidir.",
+    "description": "Rize çayı, Türkiye’nin Doğu Karadeniz bölgesinde, özellikle Rize ve çevresinde yetiştirilen yüksek kaliteli siyah çaydır. Bölgenin yoğun yağışlı ve ılıman iklimi, çay bitkisinin (Camellia sinensis) gelişimi için ideal koşullar sağlar. Hasatlar genellikle Mayıs ve Eylül ayları arasında yapılır. Rize çayı, koyu rengi ve kendine özgü aromasıyla Türk kültürünün ayrılmaz bir parçası haline gelmiştir.",
+    "link": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_%C3%A7ay",
+    "image": "cay",
+    "gallery": ["cay-1", "cay-2", "cay-3", "cay-4"],
+    "fact": [
+      "Rize, Türkiye’deki çay üretiminin yaklaşık %65’ini karşılar.",
+      "Türk çayı, dünya genelinde limonsuz içilen nadir siyah çay türlerindendir."
+    ]
+  },
+  {
+    "id": "findik",
+    "name": "Trabzon Fındığı",
+    "headline": "Karadeniz’in altın cevheri: dünyaca ünlü Türk fındığı.",
+    "description": "Trabzon ve Giresun çevresinde yetiştirilen fındık, Türkiye’nin en önemli tarımsal ihracat ürünlerinden biridir. Fındık, yüksek yağ ve protein oranıyla hem gıda sanayinde hem de sağlıklı atıştırmalıklarda kullanılır. Karadeniz’in nemli ve serin iklimi, fındık ağaçlarının verimli şekilde yetişmesine olanak tanır.",
+    "link": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_f%C4%B1nd%C4%B1k",
+    "image": "findik",
+    "gallery": ["findik-1", "findik-2", "findik-3","findik-4"],
+    "fact": [
+      "Türkiye, dünya fındık üretiminin yaklaşık %70’ini karşılar.",
+      "Fındık ağaçları 3. yıldan itibaren ürün vermeye başlar."
+    ]
+  },
+  {
+    "id": "kayisi",
+    "name": "Malatya Kayısısı",
+    "headline": "Güneşin altın meyvesi: Malatya kayısısı, dünyanın en lezzetli kuru meyvesi.",
+    "description": "Malatya, dünya kayısı üretiminde birinci sıradadır. Bölgenin kara iklimi ve bol güneşli günleri, kayısıların yüksek şeker oranına ulaşmasını sağlar. Malatya kayısısı, özellikle kuru formuyla hem Türkiye’de hem yurt dışında büyük rağbet görür.",
+    "link": "https://tr.wikipedia.org/wiki/Malatya_kay%C4%B1s%C4%B1s%C4%B1",
+    "image": "kayisi",
+    "gallery": ["kayisi-1", "kayisi-2", "kayisi-3","kayisi-4"],
+    "fact": [
+      "Malatya’da 8 milyondan fazla kayısı ağacı bulunur.",
+      "2017 yılında Malatya kayısısı, Avrupa Birliği Coğrafi İşaret belgesi almıştır."
+    ]
+  },
+  {
+    "id": "elma",
+    "name": "Amasya Elması",
+    "headline": "Tarihi şehir Amasya’nın simgesi, kırmızı rengi ve aromasıyla meşhur elma.",
+    "description": "Amasya elması, genetik yapısı ve aromasıyla diğer elmalardan ayrılır. İnce kabuğu, sulu yapısı ve dengeli tat profiliyle Türk mutfağının vazgeçilmez meyvelerindendir. Soğuk iklimi sayesinde elma uzun süre tazeliğini korur.",
+    "link": "https://tr.wikipedia.org/wiki/Amasya_elmas%C4%B1",
+    "image": "elma",
+    "gallery": ["elma-1", "elma-2", "elma-3","elma-4"],
+    "fact": [
+      "Amasya elması Osmanlı saraylarına kadar gönderilirdi.",
+      "Elmanın genetik kökeni Orta Asya’ya dayanır."
+    ]
+  },
+  {
+    "id": "portakal",
+    "name": "Finike Portakalı",
+    "headline": "Akdeniz’in kokusu: Finike’nin bereketli topraklarından gelen tatlı portakal.",
+    "description": "Antalya’nın Finike ilçesi, Türkiye’nin en kaliteli portakallarının yetiştiği bölgedir. Yüksek güneşlenme süresi ve kireçsiz toprak, Finike portakalına özel bir tat ve aroma kazandırır. Coğrafi işaretli bu ürün, ülke çapında ‘doğal tatlılık’ standardı olarak kabul edilir.",
+    "link": "https://tr.wikipedia.org/wiki/Finike_portakal%C4%B1",
+    "image": "portakal",
+    "gallery": ["portakal-1", "portakal-2", "portakal-3","portakal-4"],
+    "fact": [
+      "Finike portakalı 2008’de Coğrafi İşaret tescili almıştır.",
+      "Finike’de yılda yaklaşık 250 bin ton portakal üretilir."
+    ]
+  },
+  {
+    "id": "uzum",
+    "name": "Denizli Üzümü",
+    "headline": "Ege’nin güneşinde olgunlaşan lezzet: çekirdeksiz sultaniye üzümü.",
+    "description": "Denizli ve çevresinde yetiştirilen çekirdeksiz sultaniye üzümü, hem taze tüketim hem de kuru üzüm olarak ihraç edilir. Ege’nin düşük nemli, sıcak yazları üzümde yüksek şeker oranı oluşturur. Türkiye, dünyadaki en büyük çekirdeksiz kuru üzüm üreticilerindendir.",
+    "link": "https://tr.wikipedia.org/wiki/Sultaniye_%C3%BCz%C3%BCm%C3%BC",
+    "image": "uzum",
+    "gallery": ["uzum-1", "uzum-2", "uzum-3","uzum-4"],
+    "fact": [
+      "Denizli, Türkiye üzüm üretiminin %25’ini sağlar.",
+      "Sultaniye üzümü en çok Sarıgöl ve Buldan ilçelerinde yetiştirilir."
+    ]
+  },
+  {
+    "id": "incir",
+    "name": "Aydın İnciri",
+    "headline": "Mevsimi geldi mi kokusuyla tüm Ege’yi dolduran, Aydın’ın altın meyvesi.",
+    "description": "Aydın inciri, özellikle Germencik ve İncirliova çevresinde yetiştirilen sarı lop türüdür. Hem taze hem kuru olarak tüketilir. Aydın’ın sıcak ve kuru yazları, incirin doğal olarak güneşte kurumasına olanak tanır. Aydın inciri, dünya kuru incir pazarında kalite standardı kabul edilir.",
+    "link": "https://tr.wikipedia.org/wiki/Ayd%C4%B1n_%C4%B0nciri",
+    "image": "incir",
+    "gallery": ["incir-1", "incir-2", "incir-3","incir-4"],
+    "fact": [
+      "Aydın, Türkiye kuru incir ihracatının %80’ini gerçekleştirir.",
+      "2016’da AB Coğrafi İşareti tescili almıştır."
+    ]
+  },
+  {
+    "id": "zeytin",
+    "name": "Ayvalık Zeytini",
+    "headline": "Ege’nin bereket sembolü: Ayvalık zeytinlerinden elde edilen altın renkli yağlar.",
+    "description": "Balıkesir’in Ayvalık ilçesi, Türkiye’nin en kaliteli zeytin ve zeytinyağlarının üretim merkezlerinden biridir. Düşük asit oranı, meyvemsi aroması ve hafifliğiyle dünya çapında tanınır. Ayvalık zeytinleri geleneksel yöntemlerle toplanır ve soğuk sıkım tekniğiyle işlenir.",
+    "link": "https://tr.wikipedia.org/wiki/Ayval%C4%B1k_zeytini",
+    "image": "zeytin",
+    "gallery": ["zeytin-1", "zeytin-2", "zeytin-3","zeytin-4"],
+    "fact": [
+      "Ayvalık zeytinyağı, IOC (Uluslararası Zeytin Konseyi) tarafından tescil edilmiştir.",
+      "Zeytin ağacı 1000 yıla kadar yaşayabilir."
+    ]
+  },
+  {
+    "id": "fistik",
+    "name": "Antep Fıstığı",
+    "headline": "Güneydoğu’nun yeşil altını: Antep fıstığı, baklavanın ruhu.",
+    "description": "Gaziantep ve çevresinde yetiştirilen Antep fıstığı, kendine özgü aroması ve yüksek yağ oranıyla Türkiye’nin en değerli kuruyemişlerinden biridir. İklim olarak sıcak ve kurak bölgeleri sever. Antep fıstığı, tatlılardan dondurmalara kadar pek çok lezzetin temel bileşenidir.",
+    "link": "https://tr.wikipedia.org/wiki/Antep_f%C4%B1st%C4%B1%C4%9F%C4%B1",
+    "image": "fistik",
+    "gallery": ["fistik-1", "fistik-2", "fistik-3","fistik-4"],
+    "fact": [
+      "Türkiye, dünyanın en büyük 3. Antep fıstığı üreticisidir.",
+      "Bir fıstık ağacı 20 yıldan sonra tam verime ulaşır."
+    ]
+  },
+  {
+    "id": "gul",
+    "name": "Isparta Gülü",
+    "headline": "Gül kokulu şehir: Isparta, dünya parfüm endüstrisinin gizli kahramanı.",
+    "description": "Isparta gülü, özellikle mayıs-haziran döneminde toplanır ve gül yağı üretiminde kullanılır. Bu yağ, parfüm sektörünün en değerli hammaddelerindendir. Isparta’da yılda 10 binden fazla ton gül çiçeği işlenir. Gül tarımı bölge ekonomisinin temelidir.",
+    "link": "https://tr.wikipedia.org/wiki/Isparta_g%C3%BCl%C3%BC",
+    "image": "gul",
+    "gallery": ["gul-1", "gul-2", "gul-3","gul-4"],
+    "fact": [
+      "Isparta, dünya gül yağı üretiminin %65’ini karşılar.",
+      "Bir kilogram gül yağı için yaklaşık 4 ton gül yaprağı gerekir."
+    ]
+  },
+  {
+    "id": "tahin",
+    "name": "Eskişehir Tahini",
+    "headline": "Orta Anadolu’nun yoğun aromalı lezzeti: Eskişehir’in taş değirmen tahini.",
+    "description": "Eskişehir tahini, geleneksel taş değirmenlerde kavrulmuş susamın öğütülmesiyle yapılır. Yoğun kıvamı ve karakteristik aromasıyla diğer tahinlerden ayrılır. Özellikle kış aylarında enerji kaynağı olarak tüketilir.",
+    "link": "https://tr.wikipedia.org/wiki/Tahin",
+    "image": "tahin",
+    "gallery": ["tahin-1", "tahin-2", "tahin-3","tahin-4"],
+    "fact": [
+      "Eskişehir tahini tamamen susamdan üretilir, katkı içermez.",
+      "Taş değirmen yöntemi tahinin aromasını korur."
+    ]
+  },
+  {
+    "id": "kasar",
+    "name": "Kars Kaşarı",
+    "headline": "Doğu Anadolu’nun serin yaylalarından gelen eşsiz peynir aroması.",
+    "description": "Kars kaşarı, inek sütünden yapılan ve olgunlaşma süreciyle kendine has tadını kazanan yarı sert bir peynirdir. Kars’ın yüksek rakımı ve bitki çeşitliliği, sütün kalitesini artırır. Türkiye’nin en değerli peynirlerinden biridir.",
+    "link": "https://tr.wikipedia.org/wiki/Kars_ka%C5%9Far%C4%B1",
+    "image": "kasar",
+    "gallery": ["kasar-1","kasar-2","kasar-3","kasar-4"],
+    "fact": [
+      "Kars kaşarı, 6 aydan fazla olgunlaştırılarak üretilir.",
+      "Peynirin karakteristik tadı, bölgedeki yaylalarda otlayan hayvanlardan gelir."
+    ]
+  }
+]
