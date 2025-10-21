@@ -53,7 +53,12 @@ open FamousThings.xcodeproj
 
 ## 🌟 Screenshots
 
-*Coming soon...*
+<div align="center">
+  <img src="Screenshots/1-home.png" width="200">
+  <img src="Screenshots/2-home.png" width="200">
+  <img src="Screenshots/3-home.png" width="200">
+  <img src="Screenshots/4-home.png" width="200">
+</div>
 
 ## 🎯 Featured Products
 
